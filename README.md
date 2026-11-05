@@ -139,13 +139,6 @@ Analysed climate datasets with Python and SQL for rainfall forecasting, built an
 
 <br/><br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yashrajrr/Yashrajrr/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yashrajrr/Yashrajrr/output/github-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Yashrajrr/Yashrajrr/output/github-snake.svg" />
-</picture>
-
-</div>
 
 ---
 
